@@ -1,5 +1,5 @@
 ## Berkay Ezdemir
-Data Scientist candidate and Game Development hobbyist based in Turkey 🇹🇷
+Game Developer based in Turkey 🇹🇷
 
 ## 🧱 Projects
 
