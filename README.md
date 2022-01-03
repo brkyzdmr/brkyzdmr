@@ -1,5 +1,5 @@
 ## Berkay Ezdemir
-Game Developer based in Turkey 🇹🇷
+Data Engineer based in Turkey 🇹🇷
 
 ## 🧱 Projects
 
