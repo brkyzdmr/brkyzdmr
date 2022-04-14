@@ -40,8 +40,6 @@ Data Engineer based in Turkey 🇹🇷
 * [Laside](https://github.com/brkyzdmr/Laside): Comprehensive word saving application in Python. I create this project for saving words that I learn easily and effectively.
 
 ### 🎮 Game Development 🕹️
-* [UnityEditorScripting](https://github.com/brkyzdmr/Unity-Editor-Scripting): Some editor scripted tools for Unity Game Engine.
-*  [UnityShaderDevelopment](https://github.com/brkyzdmr/Unity-ShaderDevelopment): Some custom shader model for Unity Game Engine using HLSL (C for graphics).
 *  [FlappyBird](https://github.com/brkyzdmr/FlappyBird): Flappy Bird clone in Java using LibGDX library.
 *  [indieyogurt](https://twitter.com/indieyogurt): Mobile game company
 
