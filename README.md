@@ -23,7 +23,6 @@ Data Engineer based in Turkey 🇹🇷
 
 ### 📄 Data Science 💡
 * [TermDepositMarketingDataAnalysis](https://github.com/brkyzdmr/TermDepositMarketingDataAnalysis): Data analysis for predicting if the customer will subscribe to a term deposit.
-* [CourseraIBMCapstone](https://github.com/brkyzdmr/Coursera_Capstone): This venture intends to choose the most secure neighborhood in London dependent on the all out violations, investigate the areas of that district to locate the 10 most regular settings in every area lastly group the areas utilizing k-means clustering.
 
 ### 💻 Software Development 🧮
 * [PointRegionQuadTree](https://github.com/brkyzdmr/PointRegionQuadTree): Point region quad tree Java implementation
