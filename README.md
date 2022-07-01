@@ -1,5 +1,5 @@
 ## Berkay Ezdemir
-Data Engineer based in Turkey 🇹🇷
+Senior Software Engineer based in Turkey 🇹🇷
 
 ## 🧱 Projects
 
