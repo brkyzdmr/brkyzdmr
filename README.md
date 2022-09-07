@@ -1,5 +1,6 @@
 ## Berkay Ezdemir
 Technical Manager at [Udo Garage](https://www.udogarage.com/)
+
 Senior Software Engineer at [Udo Games](https://www.udogames.com/)
 
 ## 🧱 Projects
