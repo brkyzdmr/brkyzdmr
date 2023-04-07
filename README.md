@@ -20,6 +20,7 @@ Technical Manager at [Udo Games](https://www.udogames.com/)
   * This project created within the scope of my undergraduate thesis.
   * **Accomplishment:** By reducing the vector space with PCA, I achieved a speed increase of about 100 times without decreasing the performance rate.
 * [OpenCVImageMatching](https://github.com/brkyzdmr/OpenCV-ImageMatching): Scale and rotation invariant feature based location detector.
+* [Segment Anything Model Flask Inmplementation](https://github.com/brkyzdmr/segment-anything-flask): Flask implementation project of Meta's image segmentation model [SAM]("https://github.com/facebookresearch/segment-anything.git")
 
 ### 📄 Data Science 💡
 * [TermDepositMarketingDataAnalysis](https://github.com/brkyzdmr/TermDepositMarketingDataAnalysis): Data analysis for predicting if the customer will subscribe to a term deposit.
