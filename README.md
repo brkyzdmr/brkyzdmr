@@ -1,5 +1,5 @@
 ## Berkay Ezdemir
-Technical Manager at [Udo Games](https://www.udogames.com/)
+Senior Game Developer
 
 ## 🧱 Projects
 
