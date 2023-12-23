@@ -2,7 +2,11 @@
 Senior Game Developer
 
 ## 🧱 Projects
-
+### 🎮 Game Development 🕹️
+*  [FlappyBird](https://github.com/brkyzdmr/FlappyBird): Flappy Bird clone in Java using LibGDX library.
+*  [indieyogurt](https://twitter.com/indieyogurt): Mobile game company
+*  [MatchPool3D](https://github.com/brkyzdmr/MatchPool3D): Simple Match3D game using Entitas Framework
+*  
 ### 🧠 Deep Learning 🕸️
 
 * [A3C-Breakout](https://github.com/brkyzdmr/A3C-Breakout): Game agent that playing breakout game using A3C algorithm.
@@ -38,10 +42,6 @@ Senior Game Developer
 * [TextEditor](https://github.com/brkyzdmr/texteditor_v1.0): Console based text editor that can operate binary-level various string operation in C.
 * [3DPrinter](https://github.com/brkyzdmr/3DPrinter): Custom boot screen configuration for Marlin based Tevo Tarantula 3D printer.
 * [Laside](https://github.com/brkyzdmr/Laside): Comprehensive word saving application in Python. I create this project for saving words that I learn easily and effectively.
-
-### 🎮 Game Development 🕹️
-*  [FlappyBird](https://github.com/brkyzdmr/FlappyBird): Flappy Bird clone in Java using LibGDX library.
-*  [indieyogurt](https://twitter.com/indieyogurt): Mobile game company
 
 
 <p align='center'>
