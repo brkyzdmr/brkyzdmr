@@ -6,7 +6,7 @@ Senior Game Developer
 *  [FlappyBird](https://github.com/brkyzdmr/FlappyBird): Flappy Bird clone in Java using LibGDX library.
 *  [indieyogurt](https://twitter.com/indieyogurt): Mobile game company
 *  [MatchPool3D](https://github.com/brkyzdmr/MatchPool3D): Simple Match3D game using Entitas Framework
-*  
+  
 ### 🧠 Deep Learning 🕸️
 
 * [A3C-Breakout](https://github.com/brkyzdmr/A3C-Breakout): Game agent that playing breakout game using A3C algorithm.
