@@ -43,12 +43,3 @@ Senior Game Developer
 * [TextEditor](https://github.com/brkyzdmr/texteditor_v1.0): Console based text editor that can operate binary-level various string operation in C.
 * [3DPrinter](https://github.com/brkyzdmr/3DPrinter): Custom boot screen configuration for Marlin based Tevo Tarantula 3D printer.
 * [Laside](https://github.com/brkyzdmr/Laside): Comprehensive word saving application in Python. I create this project for saving words that I learn easily and effectively.
-
-
-<p align='center'>
-<a href="https://twitter.com/einsteinekeine"><img height="30" src="./img/013-twitter-1.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/brkyzdmr/"><img height="30" src="./img/031-linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://join.skype.com/invite/fhmCVxEhcUUF"><img height="30" src="./img/022-skype.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/berkayezdemir/"><img height="30" src="./img/034-instagram.png"></a>&nbsp;&nbsp;
-<a href="https://www.kaggle.com/brkyzdmr"><img height="30" src="./img/044-kaggle.png"></a>
-</p>
