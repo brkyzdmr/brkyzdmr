@@ -6,7 +6,7 @@ Senior Game Developer
 *  [FlappyBird](https://github.com/brkyzdmr/FlappyBird): Flappy Bird clone in Java using LibGDX library.
 *  [indieyogurt](https://twitter.com/indieyogurt): Mobile game company
 *  [MatchPool3D](https://github.com/brkyzdmr/MatchPool3D): Simple Match3D game using Entitas Framework
-*  [RollingDice](https://github.com/brkyzdmr/RollingDice): Simple board game that has deterministic dice mechanics influenced by Monopoly GO and Board Kings
+*  [RollingDice](https://github.com/brkyzdmr/RollingDice): Simple board game that has deterministic dice mechanics influenced by Board Kings
 
   
 ### 🧠 Deep Learning 🕸️
