@@ -1,5 +1,5 @@
 ## Berkay Ezdemir
-Senior Game Developer
+Senior Game Developer at [Rovio Entertainment](https://www.rovio.com/)
 
 ## 🧱 Projects
 ### 🎮 Game Development 🕹️
